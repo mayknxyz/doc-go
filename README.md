@@ -6,8 +6,9 @@ This plan is structured in four phases, from foundational knowledge to productio
 
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=for-the-badge)
 ![Repo status](https://img.shields.io/badge/status-in%20progress-green?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/mayknxyz/lets-go?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/mikenavales/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
