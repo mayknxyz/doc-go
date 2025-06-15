@@ -1,6 +1,6 @@
 # My Go Learning Journey
 
-This repository documents my journey to learn, and hopefully master, the Go programming language. My long-term goal is to build very fast, efficient, and reliable web applications.
+My journey to learn, and hopefully master, the Go programming language. My long-term goal is to build very fast, efficient, and reliable web applications.
 
 This plan is structured in four phases, from foundational knowledge to production-ready skills. This includes a detailed, project-based checklist to track my progress in learning the Go programming language. For each concept, the goal is to build the small project associated with it.
 
